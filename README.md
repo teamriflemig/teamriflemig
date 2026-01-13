@@ -9,8 +9,8 @@ not just following steps.
 Less grind, more flow.
 Less theory-only, more hands-on.
 
-Hobbies:
-• Vibecoding 🎧
-• Gaming 🎮
-• Exploring tech & systems
-• Building things for fun
+Hobbies: 
+- Vibecoding 🎧
+- Gaming 🎮
+- Exploring tech & systems
+- Building things for fun
