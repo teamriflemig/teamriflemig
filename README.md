@@ -1,16 +1,16 @@
 ## Hi there 👋
+I'm Axio — I like building things, experimenting, and learning in my own flow.
 
-<!--
-**teamriflemig/teamriflemig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Not a programmer — just someone with strong fundamentals who loves vibecoding.
 
-Here are some ideas to get you started:
+I build when the inspiration hits and learn by feeling the system,
+not just following steps.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Less grind, more flow.
+Less theory-only, more hands-on.
+
+Hobbies:
+• Vibecoding 🎧
+• Gaming 🎮
+• Exploring tech & systems
+• Building things for fun
