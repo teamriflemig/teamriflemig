@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm Axio — I like building things, experimenting, and learning in my own flow.
+I'm Iskandar — I like building things, experimenting, and learning in my own flow.
 
 Not a programmer — just someone with strong fundamentals who loves vibecoding.
 
